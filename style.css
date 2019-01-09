@@ -1,0 +1,11 @@
+body {
+  font: 'Raleway', sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.6);
+  background: linear-gradient(to right, red, yellow); /* Default Gradient */
+}
+
+h3 {
+  text-transform: lowercase;
+}
